@@ -1,0 +1,17 @@
+h1,
+h2 {
+  color: #ffa500;
+}
+section {
+  border-bottom: 1px solid #ff0000;
+  padding: 16px;
+}
+
+.hola {
+    background-color: grey;
+}
+
+.hola > p {
+  border: 1px solid red;
+}
+
